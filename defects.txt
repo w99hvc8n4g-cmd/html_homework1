@@ -34,3 +34,4 @@
 5. Лишний символ в конце описания mv: "файл/" -> "файл".
 6. Ошибка в расшифровке pwd: "Present working directory" -> "Print working directory".
 7. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".	
+8. Исправление: заменены на правильные Git-команды (git init, git clone, git push, git pull, git status, git branch, git commit, git log).
